@@ -17,7 +17,7 @@
         <div class="form-login">
             <div class="card shadow-lg" style="width: 30rem;">
                 <div class="card-header text-center">
-                    Form Login Admin
+                    <h2>Form Login Admin</h2>
                 </div>
                 <div class="card-body">
                    <form  action="proses_login.php" method="post">
